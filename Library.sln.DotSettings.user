@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA9F29A630194DACA3514B9AD6D84793/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA9F29A630194DACA3514B9AD6D84793/BuildPolicy/@EntryValue">Always</s:String>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA9F29A630194DACA3514B9AD6D84793/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA9F29A630194DACA3514B9AD6D84793/Name/@EntryValue">UnitTest1</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA9F29A630194DACA3514B9AD6D84793/ShowTime/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA9F29A630194DACA3514B9AD6D84793/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Library.Tests.UnitTest1" Project="063B915A-404B-403C-97B9-8888115AF16B" Provider="MSTest" /&gt;&lt;e Id="Library.Tests.UnitTest1.TestMethod1" Project="063B915A-404B-403C-97B9-8888115AF16B" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
